@@ -1,9 +1,9 @@
-Sample Superstore Performance Dashboard 📊
+# Sample Superstore Performance Dashboard 📊
 Unleash the full potential of your sales data with this comprehensive, interactive Power BI report!
 
 Based on the universally recognized Sample Superstore dataset, this dashboard provides an exhilarating, deep-dive into sales, profit, and performance across multiple dimensions. It’s the perfect tool for demonstrating cutting-edge business intelligence and data visualization capabilities.
 
-Key Features & Insights:
+# Key Features & Insights:
 
 Sales & Profit Overview: Instantly track total sales, profit margins, and key performance indicators (KPIs) year-over-year.
 
